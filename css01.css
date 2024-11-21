@@ -1,0 +1,25 @@
+div {
+    background-color: lightgrey;
+    margin: -8px 0px 0 -8px;
+    padding: 50px;
+    width: 100px;
+    height: 100%;
+
+
+
+
+}
+
+.links1 li {
+    list-style-type: none;
+    margin: 0 0 0 0 ;
+
+
+}
+
+.links1 li a {
+    text-decoration: none;
+    font-size: 32px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
